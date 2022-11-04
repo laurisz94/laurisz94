@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there I'm Front-end Developer 👋
 
+ 🔭 I’m currently working on [MD
 <!--
 **laurisz94/laurisz94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
