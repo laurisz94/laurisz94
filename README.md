@@ -1,6 +1,10 @@
 ### Hi there I'm Laura Cano and Front-end Developer👋
 
- 🔭 I’m currently working on [MD-Links](https://github.com/laurisz94/CDMX013-md-links)
+ - 🔭 I’m currently working on [MD-Links](https://github.com/laurisz94/CDMX013-md-links)
+ 
+ - 🌱 I’m currently learning **NodeJs**
+
+ - 📫 How to reach me **lauriisz1994@gmail.com
 <!--
 **laurisz94/laurisz94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
