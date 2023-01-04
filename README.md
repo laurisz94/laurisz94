@@ -1,6 +1,4 @@
 ### Hi there I'm Laura Cano and Front-end Developer👋
-
- - 🔭 I’m currently working on [MD-Links](https://github.com/laurisz94/CDMX013-md-links)
  
  - 🌱 I’m currently learning **ReactJS**
 
