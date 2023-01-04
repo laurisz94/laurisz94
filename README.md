@@ -2,7 +2,7 @@
 
  - 🔭 I’m currently working on [MD-Links](https://github.com/laurisz94/CDMX013-md-links)
  
- - 🌱 I’m currently learning **NodeJs**
+ - 🌱 I’m currently learning **ReactJS**
 
  - 📫 How to reach me **lauriisz1994@gmail.com
 <!--
